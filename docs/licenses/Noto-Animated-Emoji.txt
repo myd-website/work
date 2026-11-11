@@ -1,0 +1,10 @@
+Noto Animated Emoji — Trophy (U+1F3C6)
+Creator: Google
+License: Creative Commons Attribution 4.0 International (CC BY 4.0)
+License URL: https://creativecommons.org/licenses/by/4.0/legalcode
+Official collection: https://googlefonts.github.io/noto-emoji-animation/
+Original animation: https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.webp
+
+trophy.webp is the unmodified original animation.
+trophy.png is a still image extracted from the first frame of the animation
+for users who prefer reduced motion. This derivative uses the same CC BY 4.0 license.
